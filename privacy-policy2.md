@@ -1,7 +1,7 @@
 # Política de Privacidade
 
 **Aplicativo:** Câmara Cidadã Uiraúna
-**E-mail de contato:** [13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)
+**E-mail de contato:** **[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 **Última atualização:** 19 de agosto de 2026
 
 ## 1. Introdução
@@ -117,7 +117,7 @@ A solicitação pode ser realizada diretamente pelo aplicativo, quando essa func
 
 Enviar um e-mail para:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 Utilizar como assunto:
 
@@ -135,7 +135,7 @@ O usuário pode solicitar a correção ou atualização de seus dados pessoais.
 
 Para isso, deve entrar em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 A solicitação poderá exigir informações necessárias para confirmar a titularidade da conta.
 
@@ -154,7 +154,7 @@ As solicitações podem incluir:
 
 As solicitações devem ser encaminhadas para:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 ## 15. Dados de crianças e adolescentes
 
@@ -162,7 +162,7 @@ O aplicativo não é especificamente destinado ao público infantil.
 
 Caso um responsável identifique que uma criança forneceu dados pessoais ao aplicativo de forma inadequada, poderá entrar em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 A situação será analisada e as medidas apropriadas poderão ser adotadas conforme a legislação aplicável.
 
@@ -184,7 +184,7 @@ A data apresentada no início desta Política indica quando ela foi atualizada p
 
 Para qualquer dúvida, solicitação ou questão relacionada à privacidade e aos dados pessoais, entre em contato:
 
-**E-mail:** [13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 **Aplicativo:** Câmara Cidadã Uiraúna
 
