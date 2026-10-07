@@ -6,7 +6,7 @@ Aplicativo destinado aos cidadãos de Uiraúna, Paraíba, para facilitar a comun
 
 Caso tenha dúvidas, encontre algum problema ou precise de ajuda com o aplicativo, entre em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 Ao entrar em contato, informe, se possível:
 
@@ -24,7 +24,8 @@ O usuário pode solicitar a exclusão de sua conta e dos dados associados a ela 
 
 Para solicitar a exclusão, basta enviar um e-mail para:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
+
 
 Utilize o assunto:
 
@@ -59,7 +60,7 @@ As respostas do chatbot são baseadas em conteúdo previamente configurado e nã
 
 Se o aplicativo apresentar erros, travamentos ou alguma funcionalidade não funcionar corretamente, entre em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 Recomendamos informar:
 
@@ -73,7 +74,7 @@ Recomendamos informar:
 
 Caso tenha problemas para acessar sua conta, entre em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 Não envie sua senha por e-mail.
 
@@ -87,7 +88,7 @@ A solicitação poderá exigir informações suficientes para confirmar a titula
 
 ## Contato
 
-**E-mail de suporte:** [13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 
 Para questões relacionadas ao aplicativo, suporte técnico, privacidade, dados pessoais, exclusão de conta ou outras solicitações, utilize o e-mail de suporte acima.
@@ -96,7 +97,7 @@ Para questões relacionadas ao aplicativo, suporte técnico, privacidade, dados 
 
 Para dúvidas ou solicitações relacionadas aos dados pessoais utilizados pelo aplicativo, entre em contato pelo e-mail:
 
-**[13viniciusmarcus@gmail.com](mailto:13viniciusmarcus@gmail.com)**
+**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
 
 As solicitações podem incluir:
 
