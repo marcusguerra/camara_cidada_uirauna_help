@@ -1,194 +1,154 @@
 # Política de Privacidade
 
-**Aplicativo:** Câmara Cidadã Uiraúna
-**E-mail de contato:** **[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
-**Última atualização:** 19 de agosto de 2026
+**Aplicativo:** Câmara Simplificada  
+**E-mail de contato:** contato@marcusvgrdev.com.br  
+**Última atualização:** 28 de outubro de 2026
 
 ## 1. Introdução
 
-Esta Política de Privacidade descreve como o aplicativo **Câmara Cidadã Uiraúna** coleta, utiliza, armazena e protege os dados fornecidos pelos usuários durante a utilização do aplicativo.
+Esta Política de Privacidade descreve como o aplicativo **Câmara Simplificada** coleta, utiliza, armazena e protege os dados pessoais fornecidos pelos usuários durante sua utilização.
 
-O aplicativo tem como objetivo facilitar a comunicação dos cidadãos de Uiraúna, Paraíba, com o município, permitindo o envio de reclamações e solicitações, além da utilização de um chatbot com respostas predefinidas.
+O Câmara Simplificada é um aplicativo independente, criado por um cidadão para ajudar outros cidadãos a conhecer seus direitos, acessar informações sobre assuntos locais e registrar reclamações relacionadas a problemas que afetam sua comunidade.
+
+O aplicativo tem como objetivo incentivar a participação cidadã e dar visibilidade às demandas da população. Ele não é um aplicativo oficial da Câmara Municipal de Uiraúna nem representa, por si só, um canal oficial de atendimento do poder público.
 
 Ao utilizar o aplicativo, o usuário declara estar ciente das práticas descritas nesta Política de Privacidade.
 
 ## 2. Dados coletados
 
-Para permitir o cadastro e o funcionamento da conta do usuário, o aplicativo pode coletar os seguintes dados:
+Para permitir o cadastro e o funcionamento da conta, o aplicativo pode coletar os seguintes dados pessoais:
 
 * Nome
-* E-mail
-* Senha
-* CPF
-* Bairro
-* Rua
+* Endereço de e-mail
+* Senha ou credenciais de autenticação associadas à conta
 
-Além dos dados utilizados no cadastro, o aplicativo pode armazenar informações fornecidas pelo usuário ao utilizar suas funcionalidades, incluindo o conteúdo de reclamações e solicitações enviadas pelo usuário.
+Além dos dados de cadastro, o aplicativo pode armazenar informações fornecidas pelo usuário durante a utilização de suas funcionalidades, incluindo o conteúdo de reclamações, manifestações e mensagens enviadas por meio do aplicativo.
 
-## 3. Senha
+Os dados efetivamente coletados dependem das funcionalidades utilizadas pelo usuário e dos serviços técnicos necessários ao funcionamento do aplicativo.
 
-A senha utilizada para acessar a conta não é armazenada em formato de texto simples.
+## 3. Finalidades do tratamento dos dados
 
-A senha é armazenada utilizando mecanismos de hash apropriados para autenticação.
+Os dados pessoais podem ser utilizados para:
 
-O usuário nunca deve compartilhar sua senha com terceiros ou enviá-la por e-mail.
-
-## 4. CPF
-
-O CPF é utilizado para identificação e gerenciamento da conta do usuário.
-
-O CPF é armazenado em formato de hash no banco de dados, não sendo armazenado diretamente em formato de texto simples.
-
-O CPF não é utilizado para publicidade personalizada.
-
-## 5. Finalidade da coleta de dados
-
-Os dados coletados são utilizados exclusivamente para finalidades relacionadas ao funcionamento do aplicativo, incluindo:
-
-* Criação e gerenciamento da conta do usuário
-* Autenticação do usuário
-* Identificação do usuário
-* Funcionamento das funcionalidades do aplicativo
-* Registro e gerenciamento de reclamações e solicitações
-* Comunicação relacionada às solicitações realizadas pelo usuário
-* Atendimento de solicitações de suporte
-* Segurança e prevenção de uso indevido do aplicativo
-* Cumprimento de obrigações legais, quando aplicável
+* Criar, autenticar e administrar contas de usuários.
+* Permitir o acesso às funcionalidades do aplicativo.
+* Registrar e organizar reclamações e manifestações dos cidadãos.
+* Disponibilizar informações relacionadas às funcionalidades do aplicativo.
+* Oferecer suporte técnico e responder às solicitações dos usuários.
+* Manter a segurança, prevenir usos indevidos e corrigir falhas.
+* Cumprir obrigações legais aplicáveis.
 
 Os dados não devem ser utilizados para finalidades incompatíveis com aquelas descritas nesta Política de Privacidade.
 
-## 6. Reclamações e solicitações
+## 4. Senhas e autenticação
 
-O aplicativo permite que o usuário envie reclamações e solicitações relacionadas ao município de Uiraúna.
+As senhas utilizadas para acessar as contas não devem ser armazenadas em formato de texto simples. Seu armazenamento e processamento devem utilizar os mecanismos de segurança oferecidos pelo serviço de autenticação utilizado pelo aplicativo.
 
-O conteúdo fornecido pelo usuário poderá ser armazenado para permitir o registro, acompanhamento e processamento da manifestação.
+O usuário é responsável por manter suas credenciais de acesso em segurança e não deve compartilhá-las com terceiros.
 
-O usuário é responsável pelas informações que inserir em suas reclamações e solicitações e deve evitar fornecer informações pessoais de terceiros que não sejam necessárias para o atendimento da solicitação.
+## 5. Reclamações e manifestações
 
-## 7. Chatbot
+O aplicativo permite que os usuários registrem reclamações e manifestações relacionadas a problemas que afetam suas ruas, bairros e comunidades, como problemas de infraestrutura, iluminação pública e outras questões locais.
 
-O aplicativo disponibiliza um chatbot destinado a auxiliar o usuário por meio de respostas predefinidas.
+O conteúdo fornecido pode ser armazenado para permitir o registro, a organização, a visualização e o funcionamento das funcionalidades relacionadas às manifestações.
 
-O chatbot não representa atendimento humano em tempo real e suas respostas são baseadas no conteúdo previamente configurado no aplicativo ou em seu sistema de suporte.
+O usuário é responsável pelas informações que inserir e deve evitar fornecer dados pessoais de terceiros que não sejam necessários para descrever o problema relatado.
 
-As informações fornecidas ao chatbot não devem ser utilizadas como substituição de atendimento oficial quando a situação exigir análise ou providência específica do município.
+O envio de uma reclamação pelo aplicativo não garante que ela será recebida, analisada ou atendida por um órgão público. O Câmara Simplificada é uma plataforma independente e não substitui os canais oficiais de atendimento das instituições públicas.
 
-## 8. Compartilhamento de dados
+## 6. Chatbot
+
+O aplicativo disponibiliza um chatbot que auxilia os usuários por meio de respostas predefinidas.
+
+O chatbot não utiliza inteligência artificial generativa e não representa atendimento humano em tempo real. Suas respostas são baseadas em conteúdo previamente configurado.
+
+O usuário não deve utilizar o chatbot como substituto de orientação profissional ou de atendimento oficial quando a situação exigir análise específica ou providências de uma autoridade competente.
+
+## 7. Compartilhamento e armazenamento de dados
 
 Os dados pessoais dos usuários não são vendidos.
 
-Os dados podem ser processados ou armazenados por provedores de infraestrutura e serviços necessários para o funcionamento técnico do aplicativo.
+Os dados podem ser processados ou armazenados por fornecedores de infraestrutura e serviços técnicos necessários ao funcionamento do aplicativo, incluindo serviços de autenticação, hospedagem e armazenamento.
 
-Atualmente, os dados podem ser armazenados em infraestrutura fornecida pelo **Supabase**, conforme a configuração utilizada pelo aplicativo.
+O aplicativo pode utilizar a infraestrutura do **Supabase**, conforme a configuração técnica adotada.
 
-Quando terceiros processarem dados em nome do aplicativo, o tratamento deverá estar limitado às finalidades necessárias para a prestação dos serviços correspondentes e ao funcionamento do aplicativo.
+Quando fornecedores processarem dados em nome do responsável pelo aplicativo, esse tratamento deverá estar limitado às finalidades necessárias à prestação dos serviços contratados, observadas as obrigações de proteção de dados aplicáveis.
 
-Os dados também poderão ser divulgados quando necessário para cumprir obrigação legal, ordem judicial ou solicitação de autoridade competente.
+Os dados também poderão ser compartilhados quando necessário para cumprir obrigações legais, ordens judiciais ou solicitações legítimas de autoridades competentes.
 
-## 9. Serviços de terceiros
+Esta Política não afirma que as reclamações são encaminhadas automaticamente à Câmara Municipal ou a qualquer outro órgão público. Qualquer compartilhamento dessa natureza dependerá do funcionamento efetivo da aplicação e deverá ser informado de maneira adequada aos usuários.
 
-O aplicativo pode utilizar serviços de terceiros necessários para seu funcionamento, hospedagem, armazenamento, autenticação ou outros recursos técnicos.
+## 8. Serviços de terceiros
 
-Esses serviços podem processar determinados dados necessários para fornecer suas funcionalidades.
+O aplicativo pode utilizar serviços de terceiros necessários ao seu funcionamento, incluindo serviços de autenticação, hospedagem, armazenamento e gerenciamento de dados.
 
-A utilização desses serviços está sujeita às respectivas políticas e termos aplicáveis, além das obrigações de proteção de dados estabelecidas nesta Política de Privacidade.
+Esses fornecedores poderão processar os dados estritamente necessários para disponibilizar suas funcionalidades, de acordo com as configurações utilizadas e os termos aplicáveis.
 
-## 10. Segurança dos dados
+O tratamento de dados por esses fornecedores deve observar as medidas de segurança e as obrigações de proteção de dados pertinentes.
 
-São adotadas medidas técnicas e administrativas razoáveis para proteger os dados dos usuários contra acesso não autorizado, alteração, divulgação ou destruição indevida.
+## 9. Segurança dos dados
 
-Entre as medidas utilizadas está o armazenamento da senha e do CPF em formato de hash.
+São adotadas medidas técnicas e administrativas adequadas para proteger os dados pessoais contra acessos não autorizados, perda, alteração, divulgação ou destruição indevida.
 
-Os dados transmitidos entre o aplicativo e os serviços utilizados pelo sistema devem ser protegidos por mecanismos de segurança apropriados, como conexões criptografadas quando suportadas pela infraestrutura utilizada.
+As medidas de segurança podem incluir mecanismos de autenticação, controles de acesso e conexões criptografadas, conforme os recursos disponibilizados pela infraestrutura utilizada.
 
-Apesar das medidas de segurança adotadas, nenhum sistema de armazenamento ou transmissão de dados pode garantir segurança absoluta.
+Apesar das medidas adotadas, nenhum sistema de armazenamento ou transmissão de dados pode garantir segurança absoluta.
 
-## 11. Retenção dos dados
+## 10. Direitos dos titulares dos dados
 
-Os dados pessoais são mantidos enquanto forem necessários para fornecer as funcionalidades do aplicativo, manter a conta do usuário, processar reclamações e solicitações ou cumprir obrigações legais.
+Nos termos da legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), os usuários podem solicitar, conforme aplicável:
 
-Quando os dados deixarem de ser necessários para essas finalidades, eles poderão ser excluídos ou anonimizados, observadas eventuais obrigações legais de retenção.
+* Confirmação da existência de tratamento de seus dados pessoais.
+* Acesso aos dados pessoais tratados.
+* Correção de dados incompletos, inexatos ou desatualizados.
+* Informações sobre o tratamento e o compartilhamento de dados.
+* Exclusão ou anonimização de dados, quando legalmente cabível.
+* Revogação do consentimento, quando o tratamento se basear nessa hipótese legal.
 
-## 12. Exclusão da conta e dos dados
+As solicitações relacionadas aos dados pessoais podem ser encaminhadas para o endereço de contato indicado nesta Política.
 
-O usuário pode solicitar a exclusão de sua conta e dos dados associados a ela.
+## 11. Exclusão da conta e dos dados
 
-A solicitação pode ser realizada diretamente pelo aplicativo, quando essa funcionalidade estiver disponível, ou por meio do seguinte procedimento externo:
+O usuário pode solicitar a exclusão de sua conta e dos dados pessoais associados a ela, observadas as hipóteses legais de conservação.
 
-Enviar um e-mail para:
+Quando a funcionalidade de exclusão estiver disponível diretamente no aplicativo, o usuário poderá utilizá-la para realizar a solicitação.
 
-**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
+O usuário também pode solicitar a exclusão por e-mail:
 
-Utilizar como assunto:
+**Endereço:** contato@marcusvgrdev.com.br  
+**Assunto:** Solicitação de exclusão de conta
 
-**Solicitação de exclusão de conta**
+Na mensagem, deve informar o endereço de e-mail utilizado no cadastro e solicitar expressamente a exclusão da conta.
 
-No corpo da mensagem, o usuário deve informar o e-mail utilizado para cadastro e solicitar a exclusão da conta.
+Após o recebimento e a validação da solicitação, os dados serão tratados conforme os procedimentos aplicáveis. Os dados que não precisarem ser conservados por obrigação legal ou outra hipótese legítima de retenção serão excluídos, observadas as limitações técnicas pertinentes.
 
-Após a confirmação da solicitação, os dados associados à conta serão excluídos de acordo com os procedimentos aplicáveis.
+Quando a legislação exigir a conservação de determinados dados, eles poderão ser mantidos pelo período necessário e utilizados somente para as finalidades que justifiquem sua retenção.
 
-Quando houver dados que precisem ser mantidos por obrigação legal ou outra finalidade legítima, eles poderão ser mantidos pelo período necessário, sendo utilizados somente para a finalidade que justifique sua retenção.
-
-## 13. Correção ou atualização dos dados
-
-O usuário pode solicitar a correção ou atualização de seus dados pessoais.
-
-Para isso, deve entrar em contato pelo e-mail:
-
-**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
-
-A solicitação poderá exigir informações necessárias para confirmar a titularidade da conta.
-
-## 14. Solicitações relacionadas à privacidade
-
-O usuário pode entrar em contato para solicitar informações relacionadas ao tratamento de seus dados pessoais.
-
-As solicitações podem incluir:
-
-* Informações sobre os dados associados à conta
-* Correção de dados
-* Atualização de dados
-* Exclusão da conta
-* Exclusão dos dados associados à conta
-* Esclarecimentos sobre o tratamento de dados
-
-As solicitações devem ser encaminhadas para:
-
-**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
-
-## 15. Dados de crianças e adolescentes
-
-O aplicativo não é especificamente destinado ao público infantil.
-
-Caso um responsável identifique que uma criança forneceu dados pessoais ao aplicativo de forma inadequada, poderá entrar em contato pelo e-mail:
-
-**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
-
-A situação será analisada e as medidas apropriadas poderão ser adotadas conforme a legislação aplicável.
-
-## 16. Publicidade e venda de dados
+## 12. Publicidade e comercialização de dados
 
 O aplicativo não vende dados pessoais dos usuários.
 
-Os dados pessoais coletados pelo aplicativo não são utilizados para comercialização de informações pessoais.
+Os dados pessoais coletados não são comercializados como produto ou utilizados para a venda de informações pessoais.
 
-## 17. Alterações nesta Política de Privacidade
+## 13. Privacidade de crianças e adolescentes
 
-Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações no aplicativo, nos serviços utilizados ou nas obrigações legais aplicáveis.
+O aplicativo não deve ser utilizado para fornecer dados pessoais de terceiros sem fundamento adequado. Pais ou responsáveis que tenham dúvidas sobre o tratamento de dados de crianças ou adolescentes podem entrar em contato pelo endereço indicado nesta Política.
 
-Quando houver alterações relevantes, a versão atualizada será disponibilizada nesta página.
+O tratamento de dados de crianças e adolescentes, quando aplicável, deverá observar a legislação pertinente e o melhor interesse do titular.
 
-A data apresentada no início desta Política indica quando ela foi atualizada pela última vez.
+## 14. Alterações nesta Política de Privacidade
 
-## 18. Contato
+Esta Política de Privacidade poderá ser atualizada para refletir mudanças no aplicativo, nos serviços utilizados ou nas obrigações legais aplicáveis.
 
-Para qualquer dúvida, solicitação ou questão relacionada à privacidade e aos dados pessoais, entre em contato:
+A versão atualizada será disponibilizada nesta página, com a respectiva data de revisão.
 
-**[contato@marcusvgrdev.com.br](mailto:contato@marcusvgrdev.com.br)**
+Recomenda-se que os usuários consultem periodicamente esta Política para acompanhar eventuais alterações.
 
-**Aplicativo:** Câmara Cidadã Uiraúna
+## 15. Contato
 
+Para dúvidas, solicitações ou questões relacionadas à privacidade e ao tratamento de dados pessoais, entre em contato:
 
----
+**E-mail:** contato@marcusvgrdev.com.br  
+**Aplicativo:** Câmara Simplificada
 
-**Última atualização:** 19 de agosto de 2026
+**Última atualização:** 28 de outubro de 2026
